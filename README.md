@@ -2,6 +2,9 @@
 
 A browser-based Pong game controlled by hand gestures via webcam, built with vanilla JavaScript and MediaPipe Hands.
 
+## Live Demo
+🎮 [Play here](https://tessnav.github.io/HandPong/)
+
 ## About
 This is a learning project. I'm building it to explore computer vision in the browser and improve my JavaScript skills. Part of the code is created with the help of AI agents to accelerate the learning process and development.
 
