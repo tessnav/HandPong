@@ -24,3 +24,9 @@ This is a learning project. I'm building it to explore computer vision in the br
 
 ## Status
 🚧 Work in progress
+
+## What I learned so far
+- How to use the MediaPipe Tasks Vision library for real-time hand tracking in the browser
+- How browser script loading works — and why `defer` matters when mixing 
+  ES modules with classic scripts
+- How to share data between JavaScript modules using `window` as a bridge
